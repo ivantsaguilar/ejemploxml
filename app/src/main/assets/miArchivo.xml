@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productos>
+	<producto>
+		<nombre>playera</nombre>
+		<cantidades>150</cantidades>
+	</producto>
+	<producto>
+		<nombre>calcetines</nombre>
+		<cantidades>20</cantidades>
+	</producto>
+	<producto>
+		<nombre>pantalon</nombre>
+		<cantidades>2000</cantidades>
+	</producto>
+	<producto>
+		<nombre>camisa</nombre>
+		<cantidades>300</cantidades>
+	</producto>
+	<producto>
+		<nombre>sueter</nombre>
+		<cantidades>200</cantidades>
+	</producto>
+</productos>
